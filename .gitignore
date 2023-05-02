@@ -1,0 +1,3 @@
+# this is a comment
+# the below file is ignored when staging changes
+random_file_to_ignore.py
